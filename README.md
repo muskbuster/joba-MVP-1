@@ -1,10 +1,5 @@
 joba
-<a href="https://gitpod.io/#https://https://jobdao-jobamvp-0dxr6sk2v3g.ws-us47.gitpod.io/">
-  <img
-    src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
-    alt="Contribute with Gitpod"
-  />
-</a>
+
 ==================
 
 This [React] app was initialized with [create-near-app]
