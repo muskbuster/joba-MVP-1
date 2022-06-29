@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-/target
+
+# Generated files
+/target/
 
 # build
 /out
